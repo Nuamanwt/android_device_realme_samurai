@@ -14,7 +14,7 @@ PRODUCT_BRAND := realme
 PRODUCT_DEVICE := samurai
 PRODUCT_MANUFACTURER := realme
 PRODUCT_MODEL := realme X2 Pro
-PRODUCT_NAME := aospa_samurai
+PRODUCT_NAME := aosp_samurai
 
 BUILD_FINGERPRINT := "realme/RMX1931/RMX1931L1:11/RKQ1.200928.002/1625457120608:user/release-keys"
 
